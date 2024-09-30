@@ -10,3 +10,10 @@ Este instrumento foi projetado para ser aplicado antes de começar a trabalhar a
 - Identificar estruturas de dados para construção do algoritmo;
 - Utilizar expressões aritméticas, relacionais e lógicos para codificação do algoritmo;
 - Utilizar as estruturas de controle e repetição adequadas à lógica dos algoritmos.
+
+Escolhemos utilizar o Google Forms por ser uma ferramenta conhecida por todos os integrantes da equipe e, principalmente, pela facilidade em obter dados sobre o desempenho coletivo e individual.
+
+[Link do form](https://forms.gle/eBd1ppv91VhDH4Uo9)
+
+Após a aplicação deste instrumento, uma discussão sobre as questões com a turma deve cobrir todas as dúvidas ou qualquer déficit apresentado.
+Aos indivíduos que apresentaram mais dificuldades podemos apresentar materiais para recuperar as capacidades que não foram desenvolvidas.
